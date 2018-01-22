@@ -1,0 +1,50 @@
+USER:client8
+    2018-01-22 13:51:33 GRANTED: http://www.bing.com
+    2018-01-22 13:51:34 GRANTED: http://www.reddit.com
+    2018-01-22 13:51:34 GRANTED: http://www.wimp.com
+    2018-01-22 13:51:34 DENIED: http://clientsusage.com
+USER:client9
+    2018-01-22 13:51:29 GRANTED: http://www.google.com
+    2018-01-22 13:51:30 GRANTED: http://www.google.com
+    2018-01-22 13:51:30 GRANTED: http://www.wimp.com
+    2018-01-22 13:51:31 GRANTED: http://www.facebook.com
+    2018-01-22 13:51:31 GRANTED: http://www.reddit.com
+    2018-01-22 13:51:32 GRANTED: http://www.wimp.com
+USER:client0
+    2018-01-22 13:51:25 DENIED: http://clientsusage.com
+    2018-01-22 13:51:25 GRANTED: http://www.reddit.com
+    2018-01-22 13:51:26 GRANTED: http://www.facebook.com
+    2018-01-22 13:51:26 DENIED: http://clientsusage.com
+USER:client1
+    2018-01-22 13:51:23 GRANTED: http://www.reddit.com
+    2018-01-22 13:51:24 GRANTED: http://www.facebook.com
+    2018-01-22 13:51:24 DENIED: http://clientsusage.com
+    2018-01-22 13:51:24 DENIED: http://www.google.com
+USER:client2
+    2018-01-22 13:51:25 GRANTED: http://www.wimp.com
+    2018-01-22 13:51:25 GRANTED: http://www.google.com
+    2018-01-22 13:51:26 GRANTED: http://www.google.com
+USER:client3
+    2018-01-22 13:51:29 DENIED: http://clientsusage.com
+    2018-01-22 13:51:29 DENIED: http://clientsusage.com
+    2018-01-22 13:51:29 DENIED: http://clientsusage.com
+    2018-01-22 13:51:29 DENIED: http://python.com
+USER:client4
+    2018-01-22 13:51:25 GRANTED: http://www.wimp.com
+    2018-01-22 13:51:25 GRANTED: http://www.bing.com
+    2018-01-22 13:51:25 DENIED: http://clientsusage.com
+    2018-01-22 13:51:26 GRANTED: http://www.reddit.com
+USER:client5
+    2018-01-22 13:51:26 DENIED: http://clientsusage.com
+    2018-01-22 13:51:31 GRANTED: http://www.reddit.com
+    2018-01-22 13:51:31 DENIED: http://clientsusage.com
+    2018-01-22 13:51:31 DENIED: http://www.hackerrank.com
+USER:client6
+    2018-01-22 13:51:29 DENIED: http://clientsusage.com
+USER:client7
+    2018-01-22 13:51:26 GRANTED: http://www.hackerrank.com
+USER:client12
+    2018-01-22 13:51:32 GRANTED: http://www.bing.com
+USER:client15
+    2018-01-22 13:51:33 DENIED: http://clientsusage.com
+    2018-01-22 13:51:33 GRANTED: http://www.google.com
